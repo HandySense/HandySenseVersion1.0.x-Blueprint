@@ -1,6 +1,6 @@
 สำหรับ HandySense Web App จะประกอบไปด้วย Link การใช้งานดังนี้ 
 
-==> https://auth.netpie.io/login
+==> https://dashboard.handysense.io/
  สำหรับ User ของ netpie เมื่อ User สมัครการใช้งาน netpie แล้ว
  สามารถ Sign in เข้าสู่ระบบของ Handy Sense ได้ทันที ไม่ต้องลงทะเบียนซ้ำ 
 เนื่องจากข้อมูลของ User จะเชื่อมถึงกัน
