@@ -1,9 +1,0 @@
-สำหรับ Firmware นี้เป็นตัวอย่างการใช้งานกับ phpMyAdmin อย่างง่ายเพื่อจะเป็นแสดงให้เห็นว่า
-บอร์ด HandySense สามารถเชื่อมต่อฐานข้อมูลอื่น ๆ และทำ GUI กับส่วนอื่น ๆ ได้ 
-
-จะประกอบไปด้วย 2 ส่วนหลัก ดังนี้
-1. Firmware connected MySQL (DEMO)
-2. ตัวอย่าง Software ฝั่ง Web App ที่เชื่อมต่อกับ  phpMyAdmin
-
-link Demo :
-Link : http://203.150.37.159/openinnovation/showdata.php
