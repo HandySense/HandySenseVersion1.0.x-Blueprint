@@ -37,7 +37,7 @@ Descriptions
 
 * รายละเอียดแสดงดังภาพ (*แสดงพอสังเขป โดยรายละเอียดอ่านคู่มือเพิ่มเติม)
 
-![hds-pinio](https://github.com/HandySense/HandySense/blob/main/pin_io.png)
+![hds-pinio](https://github.com/HandySense/HandySense/blob/main/brall.png)
 
 Schematic
 ===========
