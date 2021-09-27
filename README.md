@@ -17,8 +17,6 @@
 
 # 1. องค์ประกอบของบอร์ด HandySense 
 
-![hds-pinio](https://github.com/HandySense/HandySense/blob/main/pinio.PNG)
-
 โดย HandySense Board ประกอบด้วยอินเตอร์เฟสการสื่อสารหลักเป็น I2C, SPI, Analog, WIFI 
 * I2C ต่อ Connector ออกมาให้ใช้งาน 2 ชุด (+5V)  
 * Analog ต่อ Connector ออกมาให้ใช้งาน 3 pin ได้แก่ IO36(A0), IO39(A3), IO32(A4)
@@ -28,7 +26,7 @@
 
 * รายละเอียดแสดงดังภาพ (*แสดงพอสังเขป โดยรายละเอียดอ่านคู่มือเพิ่มเติม)
 
-![detailHS](https://github.com/HandySense/HandySense/blob/main/detailHS.PNG)
+![hds-pinio](https://github.com/HandySense/HandySense/blob/main/pin_io.png)
 
 # 2. ไฟล์ PCB และ SCH 
 สำหรับ HandySense version นี้ออกแบบด้วยโปรแกรม Autodesk Eagle ซึ่งไฟล์สามารถกดดาวน์โหลดได้ด้านบน 
