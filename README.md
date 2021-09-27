@@ -13,11 +13,15 @@
 5. คู่มือการใช้งาน 
 
 # 1. องค์ประกอบของบอร์ด HandySense 
+
+![hds-logo_0](https://github.com/HandySense/HandySense/blob/main/HSborad.PNG)
+
 โดย HandySense Board ประกอบด้วยอินเตอร์เฟสการสื่อสารหลักเป็น I2C, SPI, Analog, WIFI 
 * I2C ต่อ Connector ออกมาให้ใช้งาน 2 ชุด (+5V)  
 * Analog ต่อ Connector ออกมาให้ใช้งาน 3 pin ได้แก่ IO36(A0), IO39(A3), IO32(A4)
 * SPI ขา CS/SS เป็น IO5 บนบอร์ดไม่ได้ต่ออุปกรณ์ แต่ต่อกับ IDC10 (block 10 pin) 
 * ส่วน WIFI สื่อสารข้อมูลกับ Server เป็นหลัก
+* Output เป็น Relay 220V AC 10A โดยต่อ pin ได้แก่ IO25, IO4, IO12, IO13 
 รายละเอียดแสดงดังภาพ (*แสดงพอสังเขป โดยลเอียดอ่านคู่มือเพิ่มเติม)
 
 ![detailHS](https://github.com/HandySense/HandySense/blob/main/detailHS.PNG)
