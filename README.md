@@ -17,7 +17,7 @@
 
 # 1. องค์ประกอบของบอร์ด HandySense 
 
-![hds-logo_0](https://github.com/HandySense/HandySense/blob/main/HSborad.PNG)
+![hds-pinio](https://github.com/HandySense/HandySense/blob/main/pinio.PNG)
 
 โดย HandySense Board ประกอบด้วยอินเตอร์เฟสการสื่อสารหลักเป็น I2C, SPI, Analog, WIFI 
 * I2C ต่อ Connector ออกมาให้ใช้งาน 2 ชุด (+5V)  
