@@ -1,4 +1,7 @@
 ![hds-logo_0](https://user-images.githubusercontent.com/80938836/111745948-ea8a5f00-88bf-11eb-83e5-bc22db83b2fd.png)
+- 📫 VDO สอนใช้งาน HandySense: ...
+[VDO_สอนใช้งาน_HandySense_Link_(คลิกเพื่อดู)](https://www.youtube.com/watch?v=b6W_hdBRJhI&list=PL7S9qslDc3W65hDXdvsPZP3AGufqoh_Rc&index=2&ab_channel=HandySenseOfficial) 
+
 # HandySense Board 
 ![](https://komarev.com/ghpvc/?username=your-github-HandySense-Blueprint&color=brightgreen) 
 
@@ -22,7 +25,8 @@
 * SPI ขา CS/SS เป็น IO5 บนบอร์ดไม่ได้ต่ออุปกรณ์ แต่ต่อกับ IDC10 (block 10 pin) 
 * ส่วน WIFI สื่อสารข้อมูลกับ Server เป็นหลัก
 * Output เป็น Relay 220V AC 10A โดยต่อ pin ได้แก่ IO25, IO4, IO12, IO13 
-* รายละเอียดแสดงดังภาพ (*แสดงพอสังเขป โดยลเอียดอ่านคู่มือเพิ่มเติม)
+
+* รายละเอียดแสดงดังภาพ (*แสดงพอสังเขป โดยรายละเอียดอ่านคู่มือเพิ่มเติม)
 
 ![detailHS](https://github.com/HandySense/HandySense/blob/main/detailHS.PNG)
 
@@ -51,8 +55,6 @@
 * คู่มือสอนใช้งาน HandySense Dashboard 
 
 ![bom](https://github.com/HandySense/HandySense/blob/main/%E0%B8%84%E0%B8%B9%E0%B9%8B%E0%B8%A1%E0%B8%B7%E0%B8%AD%20HS.png)
-
-
 
 # Open Hardware Facts
 ![](https://github.com/HandySense/HandySense/blob/main/os.PNG)
