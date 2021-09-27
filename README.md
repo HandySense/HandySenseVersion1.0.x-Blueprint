@@ -9,7 +9,8 @@
 1. องค์ประกอบของบอร์ด HandySense 
 2. ไฟล์ PCB และ SCH 
 3. BluePrint (GerberFile)
-4. คู่มือการใช้งาน
+4. รายการอุปกรณ์อิเล็กทรอนิกส์ BOM (bill of material)
+5. คู่มือการใช้งาน 
 
 # 1. องค์ประกอบของบอร์ด HandySense 
 โดย HandySense Board ประกอบด้วยอินเตอร์เฟสการสื่อสารหลักเป็น I2C, SPI, Analog, WIFI 
@@ -24,17 +25,29 @@
 # 2. ไฟล์ PCB และ SCH 
 สำหรับ HandySense version นี้ออกแบบด้วยโปรแกรม Autodesk Eagle ซึ่งไฟล์สามารถกดดาวน์โหลดได้ด้านบน 
 
-* ไฟล์ .sch
-![sch](https://github.com/HandySense/HandySense/blob/main/sch.png)
-
-* ไฟล์ .brd (PCB  layout)
-![sch](https://github.com/HandySense/HandySense/blob/main/pcb.png)
+* ไฟล์ .brd (PCB  layout) และ .sch
+![sch](https://github.com/HandySense/HandySense/blob/main/%E0%B8%9A%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%94%20HS%20.png)
 
 # 3. BluePrint (Gerber File)
 สำหรับ BluePrint จะ save เป็น Gerber File ที่สามารถนำไปสั่งผลิตได้ โดยไม่ต้องปรับแก้อะไร สามารถดาวน์โหลดได้ด้านบน
 
 * Gerber File 
 ![gerber](https://github.com/HandySense/HandySense/blob/main/gerber.png)
+
+# 4. รายการอุปกรณ์อิเล็กทรอนิกส์ BOM (Bill Of Material)
+* สำหรับรายการอุปกรณ์อิเล็กทรอนิกส์ของบอร์ด HandySense มีรายการทั้งหมดอยู่ในไฟล์ ชื่อ HandySense_v1.0.2_BOM.ods (เปิดดูด้วยโปรแกรม MS Excel)
+ซึ่งจะบอกรายละเอียดที่จำเป็นและราคาต่อบอร์ดหรือราคารวมคร่าว ๆ ได้ (อาจจะมี +,- เนื่องจากราคามีการอับเดตเป็นช่วง ๆ ขึ้นอยู่กับผู้ขาย) สามารถที่จะระบุจำนวนบอร์ดที่ต้องการได้ในช่อง
+
+* BOM (Bill Of Material)
+![bom](https://github.com/HandySense/HandySense/blob/main/bom.PNG)
+
+# 5. คู่มือการใช้งาน 
+* สำหรับคู่มือการใช้งาน จะประกอบไปด้วย 2 เล่ม ได้แก่ 
+* คู่มือสอนใช้งานบอร์ด HandySense
+* คู่มือสอนใช้งาน HandySense Dashboard 
+
+![bom](https://github.com/HandySense/HandySense/blob/main/%E0%B8%84%E0%B8%B9%E0%B9%8B%E0%B8%A1%E0%B8%B7%E0%B8%AD%20HS.png)
+
 
 
 # Open Hardware Facts
