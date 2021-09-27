@@ -22,7 +22,7 @@
 * SPI ขา CS/SS เป็น IO5 บนบอร์ดไม่ได้ต่ออุปกรณ์ แต่ต่อกับ IDC10 (block 10 pin) 
 * ส่วน WIFI สื่อสารข้อมูลกับ Server เป็นหลัก
 * Output เป็น Relay 220V AC 10A โดยต่อ pin ได้แก่ IO25, IO4, IO12, IO13 
-รายละเอียดแสดงดังภาพ (*แสดงพอสังเขป โดยลเอียดอ่านคู่มือเพิ่มเติม)
+* รายละเอียดแสดงดังภาพ (*แสดงพอสังเขป โดยลเอียดอ่านคู่มือเพิ่มเติม)
 
 ![detailHS](https://github.com/HandySense/HandySense/blob/main/detailHS.PNG)
 
