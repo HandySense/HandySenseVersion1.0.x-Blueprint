@@ -55,5 +55,5 @@
 ![bom](https://github.com/HandySense/HandySense/blob/main/%E0%B8%84%E0%B8%B9%E0%B9%8B%E0%B8%A1%E0%B8%B7%E0%B8%AD%20HS.png)
 
 # Open Hardware Facts
-![ost](https://github.com/HandySense/HandySense/blob/main/oHS.png)
+![ost](https://github.com/HandySense/HandySense/blob/main/ohs.jpg)
 
